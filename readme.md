@@ -46,7 +46,7 @@ From there you can call it as:
 ```
 
 ### Arguments:
-(call is with -h to also print this list)
+(call it with -h to also print this list)
 - -i - install
 - -u - uninstall
 - -e - enable
@@ -68,4 +68,3 @@ Run in a terminal:
     exit
     exit
 ```
-and the script will attempt to undo everything it changed, after which it will delete itself.
