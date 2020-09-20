@@ -1,6 +1,11 @@
 # Parrot SkyController 1 WPA2
 Allows you to set a WiFi password for the Parrot SkyController 1.  
 
+# Important:
+I am not responsible for any potential damage this may cause.  
+This may brick your device.  
+Do this at your own risk!  
+(Although my SkyController still works fine.)
 
 ## Install:
 All you need is a computer with adb and a usb to micro usb cable.
